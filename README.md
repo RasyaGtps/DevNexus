@@ -1,7 +1,6 @@
 # 🚀 DevNexus - Komunitas Developer Indonesia
 
 <div align="center">
-  <img src="public/images/logo.png" alt="DevNexus Logo" width="200">
   
   [![Laravel](https://img.shields.io/badge/Laravel-v10.0-FF2D20?style=for-the-badge&logo=laravel)](https://laravel.com)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com)
@@ -66,7 +65,7 @@ DevNexus adalah platform komunitas developer Indonesia yang dirancang untuk memf
 
 1. Clone repository
 ```bash
-git clone https://github.com/username/devnexus.git
+git clone https://github.com/rasyagtps/devnexus.git
 cd devnexus
 ```
 
@@ -137,20 +136,13 @@ Project ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## 👥 Tim
 
-- **Project Lead:** [Nama Lead]
-- **Backend Developer:** [Nama Backend Dev]
-- **Frontend Developer:** [Nama Frontend Dev]
-- **UI/UX Designer:** [Nama Designer]
+- **Fullstack Developer** [Rayy]
 
 ## 📞 Kontak
 
-- Website: [https://devnexus.id](https://devnexus.id)
-- Email: [contact@devnexus.id](mailto:contact@devnexus.id)
-- Twitter: [@devnexusid](https://twitter.com/devnexusid)
-- Discord: [DevNexus Community](https://discord.gg/devnexus)
-
+- Website: [https://portofolio-rasya-sija.vercel.app/](https://portofolio-rasya-sija.vercel.app/)
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Developer Indonesia</sub>
+  <sub>Built with ❤️ by Rayy</sub>
 </div>
